@@ -2,7 +2,7 @@
 
 # CFG Files 
 1. [Download](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/releases/download/Reupload/Apex-Legends-Config-And-Tweaks.zip) and extract it.
-2. Move [autoexec.cfg](https://github.com/V3nilla/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg), [superglide.cfg](https://github.com/V3nilla/Apex-Autoexec-And-Tweaks-/blob/main/superglide.cfg), [superglide1.cfg](https://github.com/V3nilla/Apex-Autoexec-And-Tweaks-/blob/main/superglide1.cfg), [superglide2.cfg](https://github.com/V3nilla/Apex-Autoexec-And-Tweaks-/blob/main/superglide2.cfg) and [reticles.cfg](https://github.com/V3nilla/Apex-Autoexec-And-Tweaks-/blob/main/reticles.cfg) to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).
+2. Move [autoexec.cfg](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/blob/main/autoexec.cfg), [superglide.cfg](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/blob/main/superglide.cfg), [superglide1.cfg](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/blob/main/superglide1.cfg), [superglide2.cfg](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/blob/main/superglide2.cfg) and [reticles.cfg](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/blob/main/reticles.cfg) to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).
 3. Rightclick on the game inside of Steam and go to "Properties".
 4. Switch to the "General" Tab.
 5. Add the command in launch options "+exec autoexec.cfg -dev" (without the Quotation marks).
@@ -16,12 +16,12 @@
 # Videoconfig
 6. Press Win+R while you are on your desktop.
 7. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks).
-8. Move [videoconfig.txt](https://github.com/V3nilla/Apex-Autoexec-And-Tweaks-/blob/main/videoconfig.txt) in it.
+8. Move [videoconfig.txt](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/blob/main/videoconfig.txt) in it.
 - For Origin users make sure your Origin Cloud Sync is disabled in the origin settings or Start the game with local saves.
 ![Origin Cloud Or Local Option](https://user-images.githubusercontent.com/48512277/224393819-05ce364d-20fb-40e3-862d-872c25fc18e5.png)
 
 # Forced Timer 
-9. Move [Memory Cleaner](https://github.com/V3nilla/Apex-Autoexec-And-Tweaks-/tree/main/Memory%20Cleaner) to "C:\Program Files" or somewhere safe.
+9. Move [Memory Cleaner](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/tree/main/Memory%20Cleaner) to "C:\Program Files" or somewhere safe.
 
 ![Timer Settings_1](https://user-images.githubusercontent.com/48512277/224394013-d5d90ab0-a341-45df-9404-6566e5c42c3a.png)
 ![Timer Settings_2](https://user-images.githubusercontent.com/48512277/224394017-fb629fb6-f575-46a8-8430-201af8c643bd.png)
@@ -30,7 +30,7 @@
 # Consistant Frame Caping
 - Capping FPS is good or bad? and How to cap it? Answer : [Watch this video](https://youtu.be/N8ZUqT6Tfiw)
 10. In-game cap or RTSS but now RTSS is optional  
-- In-game cap, Change fps_max 0 (in [autoexec.cfg](https://github.com/V3nilla/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg) and [superglide2.cfg](https://github.com/V3nilla/Apex-Autoexec-And-Tweaks-/blob/main/superglide2.cfg)) to your monitor hz because [here](https://youtu.be/_73gFgNrYVQ) (Lowest latency)
+- In-game cap, Change fps_max 0 (in [autoexec.cfg](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/blob/main/autoexec.cfg) and [superglide2.cfg](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/blob/main/superglide2.cfg)) to your monitor hz because [here](https://youtu.be/_73gFgNrYVQ) (Lowest latency)
 - [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) for framerate caping and it is the best in frametime consistancy (Adds some latency but smoother than in-game cap)
 
 ![RTSS Settings_1](https://user-images.githubusercontent.com/48512277/224394175-bf0c73e1-f192-4baa-8f1a-0108526669a3.png)
