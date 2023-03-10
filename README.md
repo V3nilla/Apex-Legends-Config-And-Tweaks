@@ -1,4 +1,4 @@
-/// Reupload of deleted repository. Made by **Natram1zh** ///
+/// Reupload of deleted repository. Originally made by **Natram1zh**. //
 
 # CFG Files 
 1. [Download](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/releases/download/Reupload/Apex-Legends-Config-And-Tweaks.zip) and extract it.
