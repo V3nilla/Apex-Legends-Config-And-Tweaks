@@ -18,6 +18,7 @@
 7. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks).
 8. Move [videoconfig.txt](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/blob/main/videoconfig.txt) in it.
 - For Origin users make sure your Origin Cloud Sync is disabled in the origin settings or Start the game with local saves.
+
 ![Origin Cloud Or Local Option](https://user-images.githubusercontent.com/48512277/224393819-05ce364d-20fb-40e3-862d-872c25fc18e5.png)
 
 # Forced Timer 
