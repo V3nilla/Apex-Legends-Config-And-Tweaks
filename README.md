@@ -1,4 +1,6 @@
-/// Reupload of deleted repository. Originally made by **Natram1zh**. //
+// Reupload of deleted repository. Originally made by **Natram1zh**. //
+
+// Message from Natram1zh - **Since my GitHub account has been suspended**, I am uploading video with my config on youtube as a placeholder until my account comes back. //
 
 # CFG Files 
 1. [Download](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/releases/download/Reupload/Apex-Legends-Config-And-Tweaks.zip) and extract it.
