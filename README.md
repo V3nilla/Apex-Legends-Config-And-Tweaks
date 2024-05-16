@@ -1,6 +1,8 @@
 # What happened?
 // Reupload of deleted repository. Originally made by **Natram1zh**. //
 
+// UPD. 16.05.24 - [Natram1zh is back, his config uploaded here](https://github.com/Natram1zh/Apex-Legends-Config)
+
 // Message from Natram1zh - **Since my GitHub account has been suspended**, I am uploading video with my config on YouTube as a placeholder until my account comes back. //
 
 // [Click me to watch a video made by Natram1zh on YouTube](https://www.youtube.com/watch?v=CLCtMcxk8Pw)
