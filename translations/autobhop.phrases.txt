@@ -1,0 +1,21 @@
+"Phrases"
+{
+    "AutoBhop Enabled"
+    {
+        "en"    "[Auto Bunnyhop] AutoBhop is now ENABLED."
+        "ru"    "[Auto Bunnyhop] АвтоБхоп теперь ВКЛЮЧЕН!"
+        "es"    "[Auto Bunnyhop] AutoBhop ahora está HABILITADO."
+    }
+    "AutoBhop Disabled"
+    {
+        "en"    "[Auto Bunnyhop] AutoBhop is now DISABLED."
+        "ru"    "[Auto Bunnyhop] АвтоБхоп теперь ВЫКЛЮЧЕН!"
+        "es"    "[Auto Bunnyhop] AutoBhop ahora está DESHABILITADO."
+    }
+    "No Permission"
+    {
+        "en"    "[Auto Bunnyhop] You do not have permission to use this command."
+        "ru"    "[Auto Bunnyhop] У вас нет прав для использования этой команды!"
+        "es"    "[Auto Bunnyhop] No tienes permiso para usar este comando."
+    }
+}
